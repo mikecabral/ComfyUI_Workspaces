@@ -13,4 +13,4 @@ Reposer & Reposer Plus Bypass Edition
 Original Reposer Basic Video guide - https://youtu.be/SacK9tMVNUA
 Original Reposer Plus Video guide - https://youtu.be/ZcCfwTkYSz8
 
-![Workflow Example of SD 1.5 Reposer](https://github.com/readycade/ComfyUI/blob/master/workflows/Reposer/SD_1.5/Reposer.png)
+![Workflow Example of SD 1.5 Reposer](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Reposer/SD_1.5/Reposer.png)
