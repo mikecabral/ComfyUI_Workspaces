@@ -1,7 +1,7 @@
 #### Example of LoRA Training in ComfyUI
 
 ##### Experimental
-![Workflow Example of Canny LoRA Control](https://github.com/readycade/ComfyUI/blob/master/workflows/LoRA%20Training/LoRA_Training.PNG)
+![Workflow Example of Canny LoRA Control](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/LoRA%20Training/LoRA_Training.PNG)
 
 ### Notes:
 https://github.com/LarryJane491/Lora-Training-in-Comfy
