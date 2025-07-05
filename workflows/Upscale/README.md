@@ -8,11 +8,13 @@ just use the correct model.. **Low VRAM** (8GB of VRAM)
 
 **RealESRGAN_4x** or **RealESRGAN_4xplus** (For High VRAM)
 
-![Workflow Example of Upscale](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Seamless_Rapid_Generation_Textures/Thumbnail.PNG)
+![Workflow Example of Upscale](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Upscale/Thumbnail.PNG)
 
+### ORIGINAL
+![Original Image (1K)](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Upscale/Original_1024_1024.png)
 
-![Workflow Example of Upscale (1K)](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Seamless_Rapid_Generation_Textures/Seamless_Rapid_Generation_Textures.png)
+### 2K UPSCALE
+![Workflow Example of Upscale (2K)](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Upscale/2x_Upscale.png)
 
-![Workflow Example of Upscale (2K)](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Seamless_Rapid_Generation_Textures/Seamless_Rapid_Generation_Textures.png)
-
-![Workflow Example of Upscale (4K)](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Seamless_Rapid_Generation_Textures/Seamless_Rapid_Generation_Textures.png)
+### 4K UPSCALE
+![Workflow Example of Upscale (4K)](https://github.com/mikecabral/ComfyUI_Workspaces/blob/master/workflows/Upscale/4x_Upscale.png)
